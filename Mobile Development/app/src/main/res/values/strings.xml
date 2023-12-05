@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<!-- android_large___1 strings -->
+
+	<string name="app_name">Page 1</string>
+	<string name="ek_img_content">ExportKit Image</string>
+	<string name="start_traveling_string">Start Traveling</string>
+	<string name="camping_string">Camping </string>
+	<string name="cuy_string">Cuy</string>
+	<string name="sed_ut_perspiciatis_unde_omnis_iste_natus_error_sit_voluptatem_accusantium_doloremque_laudantium__to_string">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, to</string>
+</resources>
