@@ -12,9 +12,8 @@
 	<color name="teal_700">#FF018786</color>
 	<color name="black">#FF000000</color>
 	<color name="white">#FFFFFFFF</color>
-
-	<color name="_bg__android_large___1_ek2_color">#FFFFFF</color>
-	<color name="_bg__button_color">#000000</color>
-	<color name="rectangle_1_color">#3A3A3A</color>
-	<color name="ellipse_1_color">#4F4F4F</color>
+	<color name="bg_gray_500">#3A3A3A</color>
+	<color name="bg_gray_200">#4F4F4F</color>
+	<color name="bg_black">#0A0E1F</color>
+	<color name="bg_white">#66FFFFFF</color>
 </resources>
