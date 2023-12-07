@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<!-- android_large___1 strings -->
+    <!-- android_large___1 strings -->
 
-	<string name="app_name">Page 1</string>
-	<string name="start_traveling_string">Start Traveling</string>
-	<string name="camping_string">Camping </string>
-	<string name="cuy_string">Cuy</string>>
-	<string name="desc_txt">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, to</string>
-	<string name="desc">Image</string>
-	<string name="login">Login</string>
-	<string name="belum_punya_akun">Belum punya akun?</string>
-	<string name="daftar">Daftar</string>
-	<string name="create_account">Create Account</string>
-	<string name="information">Enter Your Information</string>
-	<string name="name">Full Name</string>
-	<string name="confirm">Confirm Password</string>
-	<string name="create">Create</string>
-	<string name="email">Enter Your Email</string>
-	<string name="password">Enter Your Password</string>
-	<string name="error_email_is_not_valid">Email is not valid</string>
-	<string name="error_password_min_8_char">Password must be filled min 8 characters</string>
+    <string name="app_name">Page 1</string>
+    <string name="start_traveling_string">Start Traveling</string>
+    <string name="camping_string">Camping </string>
+    <string name="cuy_string">Cuy</string>>
+    <string name="desc_txt">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, to</string>
+    <string name="desc">Image</string>
+    <string name="login">Login</string>
+    <string name="belum_punya_akun">Belum punya akun?</string>
+    <string name="daftar">Daftar</string>
+    <string name="create_account">Create Account</string>
+    <string name="information">Enter Your Information</string>
+    <string name="name">Full Name</string>
+    <string name="confirm">Confirm Password</string>
+    <string name="create">Create</string>
+    <string name="email">Enter Your Email</string>
+    <string name="password">Enter Your Password</string>
+    <string name="error_email_is_not_valid">Email is not valid</string>
+    <string name="error_password_min_8_char">Password must be filled min 8 characters</string>
 </resources>
