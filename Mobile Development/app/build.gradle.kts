@@ -5,7 +5,7 @@ plugins {
 
 android {
     namespace = "com.my.campingcuy"
-    compileSdk = 33
+    compileSdk = 34
 
     defaultConfig {
         applicationId = "com.my.campingcuy"
