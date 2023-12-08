@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.detail.DetailActivity">
+
+    <com.google.android.material.appbar.AppBarLayout
+        android:id="@+id/detail_appbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+        android:background="?attr/nav_color">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content">
+
+            <ImageView
+                android:id="@+id/imageView3"
+                android:layout_width="match_parent"
+                android:layout_height="429dp"
+                android:scaleType="centerCrop"
+                android:src="@drawable/img_5" />
+        </RelativeLayout>
+    </com.google.android.material.appbar.AppBarLayout>
+
+    <RelativeLayout
+        android:id="@+id/rectangleView"
+        android:layout_width="match_parent"
+        android:layout_height="600dp"
+        android:layout_gravity="top|start"
+        android:layout_marginStart="0dp"
+        android:layout_marginTop="360dp"
+        android:background="@drawable/rectangle_shape_4"
+        android:elevation="10dp">
+
+        <TextView
+            android:id="@+id/textViewInsideRectangle"
+            android:layout_width="100dp"
+            android:layout_height="30dp"
+            android:layout_marginStart="26dp"
+            android:layout_marginTop="26dp"
+            android:text="@string/dtl_txt1"
+            android:textColor="#000000"
+            android:textSize="20sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="98dp"
+            android:layout_height="12dp"
+            android:layout_marginStart="28dp"
+            android:layout_marginTop="55dp"
+            android:text="@string/dtl_txt2"
+            android:textColor="@color/black"
+            android:textSize="8sp"
+            android:textStyle="bold|normal"
+            android:drawablePadding="8dp"
+            app:drawableStartCompat="@drawable/ic_location" />
+
+        <TextView
+            android:id="@+id/rating"
+            android:layout_width="65dp"
+            android:layout_height="13dp"
+            android:layout_marginStart="57dp"
+            android:layout_marginTop="70dp"
+            android:text="@string/dtl_txt3"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+            android:textStyle="normal"
+            android:drawablePadding="3dp"
+            app:drawableStartCompat="@drawable/ic_ratings" />
+
+        <TextView
+            android:id="@+id/people"
+            android:layout_width="55dp"
+            android:layout_height="12dp"
+            android:layout_marginStart="125dp"
+            android:layout_marginTop="70dp"
+            android:text="@string/dtl_txt4"
+            android:textColor="@color/black"
+            android:textSize="10sp"
+            android:textStyle="normal"
+            android:drawablePadding="3dp"
+            app:drawableStartCompat="@drawable/ic_person" />
+
+        <TextView
+            android:id="@+id/mileage"
+            android:layout_width="47dp"
+            android:layout_height="12sp"
+            android:layout_marginStart="196dp"
+            android:layout_marginTop="70dp"
+            android:text="@string/dtl_txt5"
+            android:textColor="@color/black"
+            android:textSize="10dp"
+            android:textStyle="normal"
+            android:drawablePadding="3dp"
+            app:drawableStartCompat="@drawable/ic_time" />
+
+        <Button
+            android:id="@+id/Favorite"
+            android:layout_width="34dp"
+            android:layout_height="34dp"
+            android:layout_marginStart="340dp"
+            android:layout_marginTop="26dp"
+            android:background="@drawable/favorite_button"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:textOff=""
+            android:textOn="" />
+
+        <TextView
+            android:id="@+id/dtlDesc"
+            android:layout_width="72dp"
+            android:layout_height="18dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="175dp"
+            android:text="@string/dtl_txt6"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/detail"
+            android:layout_width="340dp"
+            android:layout_height="77dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="190dp"
+            android:text="@string/dtl_txt7"
+            android:textColor="@color/black"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/total"
+            android:layout_width="60dp"
+            android:layout_height="15dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="320dp"
+            android:text="@string/dtl_txt8"
+            android:textColor="@color/black"
+            android:textSize="12sp" />
+
+        <TextView
+            android:id="@+id/price"
+            android:layout_width="88dp"
+            android:layout_height="15dp"
+            android:layout_marginStart="24dp"
+            android:layout_marginTop="334dp"
+            android:text="@string/dtl_txt9"
+            android:textColor="@color/black"
+            android:textSize="12sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/day"
+            android:layout_width="88dp"
+            android:layout_height="15dp"
+            android:layout_marginStart="57dp"
+            android:layout_marginTop="334dp"
+            android:text="@string/dtl_txt10"
+            android:textColor="@color/black"
+            android:textSize="12sp" />
+
+        <Button
+            android:id="@+id/map"
+            android:layout_width="210dp"
+            android:layout_height="35dp"
+            android:layout_marginStart="180dp"
+            android:layout_marginTop="320dp"
+            android:text="@string/map"
+            android:textColor="@color/white"
+            android:background="@drawable/map_button"
+            android:focusable="false"
+            android:focusableInTouchMode="false"
+            android:textOff=""
+            android:textOn=""/>
+    </RelativeLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
