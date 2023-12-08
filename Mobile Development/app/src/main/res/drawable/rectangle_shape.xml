@@ -1,7 +1,30 @@
 <?xml version="1.0" encoding="utf-8"?>
-<shape xmlns:android="http://schemas.android.com/apk/res/android"
-    android:shape="rectangle" >
-    <corners android:radius="15dp" />
-    <solid android:color="@color/bg_gray_500" />
-</shape>
+<?xml version="1.0" encoding="utf-8"?>
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
 
+    <!-- Background shape with 70% opacity -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="15dp" />
+            <solid android:color="#B33A3A3A" />
+        </shape>
+    </item>
+
+    <!-- Drop shadow effect -->
+    <item>
+        <shape android:shape="rectangle">
+            <corners android:radius="15dp" />
+            <solid android:color="@android:color/transparent" />
+            <stroke
+                android:color="@color/bg_gray_200"
+                android:width="1dp"
+                android:alpha="0.7" />
+            <padding
+                android:left="1dp"
+                android:right="1dp"
+                android:top="1dp"
+                android:bottom="2dp" />
+        </shape>
+    </item>
+
+</layer-list>

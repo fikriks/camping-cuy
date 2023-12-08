@@ -20,4 +20,20 @@
     <string name="password">Enter Your Password</string>
     <string name="error_email_is_not_valid">Email is not valid</string>
     <string name="error_password_min_8_char">Password must be filled min 8 characters</string>
+    <string name="main_txt1">Create Your Own Camp Story</string>
+    <string name="main_txt2">Search Location</string>
+    <string name="main_txt3">Categories</string>
+    <string name="main_txt4">view more</string>
+    <string name="main_txt5">Recommanded</string>
+    <string name="dtl_txt1">Surabaya</string>
+    <string name="dtl_txt2">Mentawai, Sumatra barat</string>
+    <string name="dtl_txt3">Rating</string>
+    <string name="dtl_txt4">People</string>
+    <string name="dtl_txt5">Mileage</string>
+    <string name="dtl_txt6">Description</string>
+    <string name="dtl_txt7">"Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore\n Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore "</string>
+    <string name="dtl_txt8">Total Price</string>
+    <string name="dtl_txt9">Price</string>
+    <string name="dtl_txt10">/ day</string>
+    <string name="map">See Map</string>
 </resources>

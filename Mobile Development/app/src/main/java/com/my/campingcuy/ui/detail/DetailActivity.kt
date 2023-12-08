@@ -1,14 +1,12 @@
-package com.my.campingcuy.ui
+package com.my.campingcuy.ui.detail
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.my.campingcuy.R
 
-class SplashScreenActivity : AppCompatActivity() {
+class DetailActivity : AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_splash_screen)
+        setContentView(R.layout.activity_detail)
     }
-
-
 }
