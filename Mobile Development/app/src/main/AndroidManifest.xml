@@ -6,6 +6,21 @@
         android:label="@string/app_name"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".ui.profile.ProfileActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.payment.PaymentActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.maps.MapsViewModel"
+            android:exported="false" />
+        <activity
+            android:name=".ui.maps.MapsActivity"
+            android:exported="false" />
+        <activity
+            android:name=".ui.checkout.CheckoutActivity"
+            android:exported="false" />
+        <activity
             android:name=".ui.detail.DetailActivity"
             android:exported="false" />
         <activity
