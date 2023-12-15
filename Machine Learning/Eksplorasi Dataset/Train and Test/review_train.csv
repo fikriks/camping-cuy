@@ -1,0 +1,475 @@
+user_id,camping_id,nama_camping,rating,review
+U0001,C0001,Buper Ipukan,4,"The place has a really forest atmosphere, the camping ground is spacious, there are stalls, prayer rooms and toilets"
+U0002,C0001,Buper Ipukan,4,Bnyak byar nya
+U0003,C0001,Buper Ipukan,5,"Very suitable for traveling to relieve fatigue, the location is not too far from the main road, lots of camping ground spots Good for activities or just regular tourism"
+U0004,C0001,Buper Ipukan,5,A comfortable place to camp with friends or family
+U0005,C0001,Buper Ipukan,5,"The view is great, the air is cool for the mind to dress"
+U0006,C0001,Buper Ipukan,5,"I wanted to camp here, but I haven't done it yet"
+U0007,C0001,Buper Ipukan,5,"Awesome, nice place"
+U0008,C0001,Buper Ipukan,4,Suitable for holidays
+U0009,C0001,Buper Ipukan,5,Location for retreat
+U0010,C0001,Buper Ipukan,5,One of the mandatory places to camp in Kuningan Complete facilities
+U0011,C0002,Buper Huludayeh Trijaya,5,"The place looks gorgeous, the parking spot is spacious Really recommended to visit with family"
+U0012,C0002,Buper Huludayeh Trijaya,5,"A place that is still beautiful, comfortable, suitable for resting to relieve fatigue"
+U0013,C0002,Buper Huludayeh Trijaya,5,"The place is comfortable, the air is cool and cheap"
+U0014,C0002,Buper Huludayeh Trijaya,5,"The place is nice, good for a picnic"
+U0015,C0002,Buper Huludayeh Trijaya,5,The place is quite comfortable to relax With family
+U0016,C0002,Buper Huludayeh Trijaya,5,Helpful enough comfortable and fun
+U0017,C0002,Buper Huludayeh Trijaya,5,Have a picnic with your family here
+U0018,C0002,Buper Huludayeh Trijaya,5,Steady for the path goes county
+U0019,C0002,Buper Huludayeh Trijaya,5,"Cool place, spacious parking One of the tourist attractions and campsites in the TNGC area"
+U0020,C0002,Buper Huludayeh Trijaya,5,"The place is safe and comfortable, good too"
+U0021,C0003,Buper Balong Dalem,5,Good
+U0022,C0003,Buper Balong Dalem,5,A very comfortable place to play and swim
+U0023,C0003,Buper Balong Dalem,5,Beautiful
+U0024,C0003,Buper Balong Dalem,4,Balong Dalem is a comfortable place for relaxing camping and water tourism to see the god fish
+U0025,C0003,Buper Balong Dalem,5,The place is comfortable and the network is good
+U0026,C0003,Buper Balong Dalem,5,"The air is naturally cool, so it is comfortable for visitors"
+U0027,C0003,Buper Balong Dalem,5,"It's cool to be able to swim for a cheap, clean, spacious place, suitable for getting rid of fatigue on weekdays"
+U0028,C0003,Buper Balong Dalem,5,Cool and comfortable for camping
+U0029,C0003,Buper Balong Dalem,5,Adem comfortable beautiful
+U0030,C0003,Buper Balong Dalem,4,Very nice and clean place
+U0031,C0004,Bumi Perkemahan Palutungan,5,"It's quite cold tonight, 18Â° fresh"
+U0032,C0004,Bumi Perkemahan Palutungan,4,Ceklok nature tourism at the foot of the Ciremai mountains and campground
+U0033,C0004,Bumi Perkemahan Palutungan,5,It's cheap and there are ATV games that are enough to challenge the adrenaline
+U0034,C0004,Bumi Perkemahan Palutungan,5,Spacious comfortable natural
+U0035,C0004,Bumi Perkemahan Palutungan,5,"The atmosphere is very beautiful, the place is comfortable Improve parking access"
+U0036,C0004,Bumi Perkemahan Palutungan,5,"Cool atmosphere, ijo royo royo is good for relaxing"
+U0037,C0004,Bumi Perkemahan Palutungan,5,A very good and natural place to relieve fatigue amidst the busy activities of the capital city
+U0038,C0004,Bumi Perkemahan Palutungan,5,"Dingin, seger, recomended for camp and ther is a waterfall"
+U0039,C0004,Bumi Perkemahan Palutungan,5,Suitable for camping
+U0040,C0004,Bumi Perkemahan Palutungan,5,Recommendations for holidays!
+U0041,C0005,Bumi Perkemahan Bukit Lambosir,4,"The road is extra rocky, if you are not agile enough to take a two-wheeled vehicle, be careful you might lose it"
+U0042,C0005,Bumi Perkemahan Bukit Lambosir,5,Great mazsee
+U0043,C0005,Bumi Perkemahan Bukit Lambosir,5,Quiet area with natural beauty
+U0044,C0005,Bumi Perkemahan Bukit Lambosir,4,The road is steep but it pays off with the view
+U0045,C0005,Bumi Perkemahan Bukit Lambosir,3,"The toilet is broken, there is no electricity"
+U0046,C0005,Bumi Perkemahan Bukit Lambosir,5,Really recommended for a campsite
+U0047,C0005,Bumi Perkemahan Bukit Lambosir,5,The road is challenging and the view is charming
+U0048,C0005,Bumi Perkemahan Bukit Lambosir,5,"Very good Maa syaa Allah, not crowded, feels like climbing a mountain"
+U0049,C0005,Bumi Perkemahan Bukit Lambosir,5,The view is cool unfortunately the road access is damaged lots of rocks
+U0050,C0005,Bumi Perkemahan Bukit Lambosir,5,Very nice place
+U0051,C0006,Wisata Alam Tenjo Laut,5,Nice place for healing w family
+U0052,C0006,Wisata Alam Tenjo Laut,5,Brrrr cold
+U0053,C0006,Wisata Alam Tenjo Laut,5,"Yes, it's not far from Buper and the pine forest"
+U0054,C0006,Wisata Alam Tenjo Laut,5,Great camping place
+U0055,C0006,Wisata Alam Tenjo Laut,5,"A suitable place for family camping, easy access and cool managers"
+U0056,C0006,Wisata Alam Tenjo Laut,4,"It's pretty cold, but the one above the water isn't smooth and dusty"
+U0057,C0006,Wisata Alam Tenjo Laut,4,"Tenjolaut is beautiful, cool, friendly, lots of clean prayer rooms"
+U0058,C0006,Wisata Alam Tenjo Laut,5,Nice cool
+U0059,C0006,Wisata Alam Tenjo Laut,4,"It's fun to camp with your family, toilet facilities and a prayer room are safe"
+U0060,C0006,Wisata Alam Tenjo Laut,5,Holiday is very nice
+U0061,C0007,Talaga Surian Camp Park,5,"very effective, thank you"
+U0062,C0007,Talaga Surian Camp Park,3,"Is the parking safe for motorbikes, if you stay there?"
+U0063,C0007,Talaga Surian Camp Park,5,God
+U0064,C0007,Talaga Surian Camp Park,5,Beautiful
+U0065,C0007,Talaga Surian Camp Park,5,"The view is nice, still beautiful"
+U0066,C0007,Talaga Surian Camp Park,5,nice view y cheap and cool
+U0067,C0007,Talaga Surian Camp Park,4,"The place and environment are quite good, the toilets are sufficient"
+U0068,C0007,Talaga Surian Camp Park,5,5 full days here
+U0069,C0007,Talaga Surian Camp Park,5,Recommended camping place
+U0070,C0007,Talaga Surian Camp Park,4,The view is great
+U0071,C0008,Bukit 1001 Tangga dan Bumi Perkemahan Lembah Manguntapa,4,"The view from the top is quite beautiful, but unfortunately many young couples abuse this place"
+U0072,C0008,Bukit 1001 Tangga dan Bumi Perkemahan Lembah Manguntapa,5,Very cold
+U0073,C0008,Bukit 1001 Tangga dan Bumi Perkemahan Lembah Manguntapa,5,Place of worship and place of study
+U0074,C0008,Bukit 1001 Tangga dan Bumi Perkemahan Lembah Manguntapa,5,Exciting and exciting
+U0075,C0008,Bukit 1001 Tangga dan Bumi Perkemahan Lembah Manguntapa,4,the bathroom is scary hahaha
+U0076,C0008,Bukit 1001 Tangga dan Bumi Perkemahan Lembah Manguntapa,4,Pretty good for refreshing to enjoy the weekend
+U0077,C0008,Bukit 1001 Tangga dan Bumi Perkemahan Lembah Manguntapa,5,Stay healty
+U0078,C0008,Bukit 1001 Tangga dan Bumi Perkemahan Lembah Manguntapa,5,"It's good, the atmosphere is steady"
+U0079,C0008,Bukit 1001 Tangga dan Bumi Perkemahan Lembah Manguntapa,5,"It's a good place, the air at night is cool and cool, maybe the temperature is 17Â°C at night"
+U0080,C0008,Bukit 1001 Tangga dan Bumi Perkemahan Lembah Manguntapa,5,Nice natural scenery
+U0081,C0009,Paniis Singkup,5,"Spacious suitable for camping with friends, family, etc"
+U0082,C0009,Paniis Singkup,4,The camp is over the cipaniis river Located next to the color settlement and the highway
+U0083,C0009,Paniis Singkup,4,"Cheap, cool atmosphere, can bathe in springs"
+U0084,C0009,Paniis Singkup,5,"Not just washing, at Cipaniis you can also go tubing now"
+U0085,C0009,Paniis Singkup,3,Great for camping
+U0086,C0009,Paniis Singkup,5,"Nice, beautiful, and cool"
+U0087,C0009,Paniis Singkup,4,Eid is very busy
+U0088,C0009,Paniis Singkup,5,Cool
+U0089,C0009,Paniis Singkup,1,Expensive
+U0090,C0009,Paniis Singkup,5,Cool
+U0091,C0010,Sukageuri View,5,"The first time I camped there, even though I didn't get any sunshine, I wasn't disappointed there are lots of safe toilet facilities, places to eat are open 24 hour"
+U0092,C0010,Sukageuri View,2,"It's a shame, it's not like it used to be Adding to this, it becomes even more unmaintained"
+U0093,C0010,Sukageuri View,4,"Cool place to spend the weekend with family, cool place"
+U0094,C0010,Sukageuri View,5,I am satisfied with coming here
+U0095,C0010,Sukageuri View,5,"The place is cool, cool, calm Suitable for events on weekdays or weekends"
+U0096,C0010,Sukageuri View,5,Beautiful view and great air
+U0097,C0010,Sukageuri View,5,"The view is beautiful, the place is cool"
+U0098,C0010,Sukageuri View,5,"The view is nice, the facilities are all clean"
+U0099,C0010,Sukageuri View,5,The designer is right for you
+U0100,C0010,Sukageuri View,5,not bad
+U0101,C0011,Camping Ground Bukit 1000 Bintang,5,"The place is really cool, there are comfortable cottages and the guards are very friendly"
+U0102,C0011,Camping Ground Bukit 1000 Bintang,5,It's really delicious even though the journey is incredibly rocky
+U0103,C0011,Camping Ground Bukit 1000 Bintang,5,Heaven is high
+U0104,C0011,Camping Ground Bukit 1000 Bintang,5,"Good location for office, near resto and masjid"
+U0105,C0011,Camping Ground Bukit 1000 Bintang,4,"For first timers, you will definitely be confused about where to go, including me"
+U0106,C0011,Camping Ground Bukit 1000 Bintang,3,Up and down I chase you!
+U0107,C0011,Camping Ground Bukit 1000 Bintang,5,Natural tourism that is very enchanting with the background of Mount Cirema
+U0108,C0011,Camping Ground Bukit 1000 Bintang,1,"Inadequate facilities dirty water, expensive tickets"
+U0109,C0011,Camping Ground Bukit 1000 Bintang,5,Long live Indonesian conservation !!!
+U0110,C0011,Camping Ground Bukit 1000 Bintang,5,A natural place to stay on top of the mountain with special huts with glass doors
+U0111,C0012,Ranca Upas Camping Ground,5,"One word ""best"""
+U0112,C0012,Ranca Upas Camping Ground,5,The view is winning!
+U0113,C0012,Ranca Upas Camping Ground,5,Nice
+U0114,C0012,Ranca Upas Camping Ground,5,This is really recommended
+U0115,C0012,Ranca Upas Camping Ground,4,"Great view, Kid-friendly"
+U0116,C0012,Ranca Upas Camping Ground,5,"Of course, the best choice is to use a tent here"
+U0117,C0012,Ranca Upas Camping Ground,4,Let's go camping this Friday
+U0118,C0012,Ranca Upas Camping Ground,4,very good
+U0119,C0012,Ranca Upas Camping Ground,5,Fun for gathering with friends or family
+U0120,C0012,Ranca Upas Camping Ground,5,"Cool atmosphere, good service and beautiful views"
+U0121,C0013,Taman Langit Pangalengan,5,suitable for those looking for fresh air
+U0122,C0013,Taman Langit Pangalengan,5,"I've been here twice and wow, it's really refreshing when I come here in the morning"
+U0123,C0013,Taman Langit Pangalengan,5,"I came here at medium sunrise, even though it kept raining, it wasn't muddy"
+U0124,C0013,Taman Langit Pangalengan,5,"Went there 25-26 November, there were lots of flies and lots of insects at night, but overall ok"
+U0125,C0013,Taman Langit Pangalengan,5,Amazing place
+U0126,C0013,Taman Langit Pangalengan,5,The view is that beautiful
+U0127,C0013,Taman Langit Pangalengan,5,Best sunrise view
+U0128,C0013,Taman Langit Pangalengan,5,"It is recommended that you come here early in the morning, so you can catch the sunrise"
+U0129,C0013,Taman Langit Pangalengan,5,Enjoy His creation
+U0130,C0013,Taman Langit Pangalengan,5,"Masyaallah, the view is really great"
+U0131,C0014,Gunung Putri Lembang,5,Gunung Putri is the choice for those who want to experience the outdoor atmosphere
+U0132,C0014,Gunung Putri Lembang,5,"Not too far from facilities such as prayer rooms and water, suitable for beginners who want to camp"
+U0133,C0014,Gunung Putri Lembang,5,Goat's milk is suitable for health
+U0134,C0014,Gunung Putri Lembang,5,"The place is clean, the guards are good, and from post A to the peak it's not that far but it's not too far but it's not bad for those who aren't used to climbing"
+U0135,C0014,Gunung Putri Lembang,5,Excellent
+U0136,C0014,Gunung Putri Lembang,5,Beautiful!
+U0137,C0014,Gunung Putri Lembang,5,suitable for camping or climbing because the terrain is not too tough but the views are very beautiful
+U0138,C0014,Gunung Putri Lembang,5,Nice scenery
+U0139,C0014,Gunung Putri Lembang,5,"Feel free to chill, eat and drink"
+U0140,C0014,Gunung Putri Lembang,5,"A beautiful, cool place comfortable for relaxing getting rid of stress"
+U0141,C0015,Bukit Moko,5,Cool place
+U0142,C0015,Bukit Moko,4,"Nice place to calm down, the food menu is quite varied and affordable"
+U0143,C0015,Bukit Moko,5,Great place Good food
+U0144,C0015,Bukit Moko,5,The atmosphere is really nice It's cool and quiet
+U0145,C0015,Bukit Moko,5,The right place to enjoy nature and see the city of Bandung from a height
+U0146,C0015,Bukit Moko,5,"This is a really nice place, it's available 24 hours a day too"
+U0147,C0015,Bukit Moko,5,The place is very calm to relieve stress in the city
+U0148,C0015,Bukit Moko,5,Nostalgia for the past
+U0149,C0015,Bukit Moko,5,Great view
+U0150,C0015,Bukit Moko,4,You can see West Bandung and East Bandung
+U0151,C0016,Pineus Tilu CampGround,3,"It's like living in your hometown, the Nasi Liwet is quite delicious"
+U0152,C0016,Pineus Tilu CampGround,3,"Actually the place is nice, clean, cool, just bad with the flies"
+U0153,C0016,Pineus Tilu CampGround,1,Maybe in a camp class in Bandung there is no water in the bathroom!!!
+U0154,C0016,Pineus Tilu CampGround,1,"The place is nice and cool, the waiters are comfortable, it's a shame that there are lots of flies which make you feel uncomfortable"
+U0155,C0016,Pineus Tilu CampGround,5,Very great experience here and so nature
+U0156,C0016,Pineus Tilu CampGround,5,It's nice and cool
+U0157,C0016,Pineus Tilu CampGround,4,Recommended
+U0158,C0016,Pineus Tilu CampGround,5,Unite with nature
+U0159,C0016,Pineus Tilu CampGround,5,Fun and exciting
+U0160,C0016,Pineus Tilu CampGround,4,A fun and cool place
+U0161,C0017,Wisata Batu Kuda,5,Fun for camping
+U0162,C0017,Wisata Batu Kuda,5,"Nice clean, love lots of dogs"
+U0163,C0017,Wisata Batu Kuda,4,"The air is good, the place still needs to improve its infrastructure"
+U0164,C0017,Wisata Batu Kuda,5,Exciting
+U0165,C0017,Wisata Batu Kuda,4,Good
+U0166,C0017,Wisata Batu Kuda,5,"The caretaker is friendly, the place is still cool, there are many stalls so you are not afraid of hunger"
+U0167,C0017,Wisata Batu Kuda,5,"Camping, hiking and mountain climbing places in one area"
+U0168,C0017,Wisata Batu Kuda,5,Bagguuusss
+U0169,C0017,Wisata Batu Kuda,3,"Entry access has changed, it's too far"
+U0170,C0017,Wisata Batu Kuda,5,Very comfortable to wear for daydreaming
+U0171,C0018,Green Grass Cikole,5,The place is quite cozy & the campervan block area is quite neat
+U0172,C0018,Green Grass Cikole,5,"IT'S SO FUN CAMPING HERE!! Apart from being comfortable, MOST IMPORTANTLY THE TOILETS ARE PLENTY AND CLEAN"
+U0173,C0018,Green Grass Cikole,4,Good
+U0174,C0018,Green Grass Cikole,5,OK
+U0175,C0018,Green Grass Cikole,4,"I like it when I was camping, the weather was really cool"
+U0176,C0018,Green Grass Cikole,4,"The place is nice and comfortable, lots of pine trees so it's cool"
+U0177,C0018,Green Grass Cikole,4,"Refreshing on a picnic while grilling for a few hours here on weekdays, it's quite comfortable when there aren't so many visitors"
+U0178,C0018,Green Grass Cikole,5,It's cold to the bone
+U0179,C0018,Green Grass Cikole,4,Many choices of locations for camping It's just close to the road so you can hear the sound of vehicles passing by
+U0180,C0018,Green Grass Cikole,4,The toilet is a bit lacking
+U0181,C0019,Cantigi Camp,4,Good outdoor activities for children
+U0182,C0019,Cantigi Camp,5,Best camping in Bandung
+U0183,C0019,Cantigi Camp,5,Most wonderful outbound place for kids
+U0184,C0019,Cantigi Camp,4,"The atmosphere is very cool, beautiful and shady"
+U0185,C0019,Cantigi Camp,5,"Really cool place, complete facilities Cool, lots of trees"
+U0186,C0019,Cantigi Camp,5,Okay place for a family vacation
+U0187,C0019,Cantigi Camp,5,It's really fun
+U0188,C0019,Cantigi Camp,5,Make the kids have a lot of fun
+U0189,C0019,Cantigi Camp,4,"Complete facilities, often used for school outbound activities, have known this place for 10 years, okay for camping too"
+U0190,C0019,Cantigi Camp,5,The place is okay
+U0191,C0020,Pine Forest Camp,5,"OK, I have it"
+U0192,C0020,Pine Forest Camp,5,Beautiful place simple prayer room makes worship solemn
+U0193,C0020,Pine Forest Camp,5,"good, price a bit pricy"
+U0194,C0020,Pine Forest Camp,4,new camp ground only 25Km from malang city
+U0195,C0020,Pine Forest Camp,5,It's cool there are lots of toilets there's a water heater too
+U0196,C0020,Pine Forest Camp,5,Nice place for campers
+U0197,C0020,Pine Forest Camp,5,The place is really good It's just a shame that the road access there is really bad
+U0198,C0020,Pine Forest Camp,5,the tap is gone
+U0199,C0020,Pine Forest Camp,4,"All facilities are ok, only the road to the location needs attention"
+U0200,C0020,Pine Forest Camp,4,"The place is nice, but the access is limited if you want to go there you have to use a Land Rover"
+U0201,C0021,Terminal Wisata Grafika Cikole(TWGC),5,The place is quite entertaining and close to several tourist attractions
+U0202,C0021,Terminal Wisata Grafika Cikole(TWGC),5,Nice place
+U0203,C0021,Terminal Wisata Grafika Cikole(TWGC),5,Excellent
+U0204,C0021,Terminal Wisata Grafika Cikole(TWGC),5,Cool and cozy atmosphere
+U0205,C0021,Terminal Wisata Grafika Cikole(TWGC),5,Cool
+U0206,C0021,Terminal Wisata Grafika Cikole(TWGC),5,"The place is really spacious, the cottage is also comfortable, don't forget to bring a jacket"
+U0207,C0021,Terminal Wisata Grafika Cikole(TWGC),5,Good place for company gathering
+U0208,C0021,Terminal Wisata Grafika Cikole(TWGC),5,"Asek for a family holiday, with a beautiful forest atmosphere"
+U0209,C0021,Terminal Wisata Grafika Cikole(TWGC),3,"A place for outbound children, unfortunately there are lots of flies hanging around"
+U0210,C0021,Terminal Wisata Grafika Cikole(TWGC),4,Good enough for family recreation and family camping
+U0211,C0022,Bumi Perkemahan Ranca Cangkuang PPTK Gambung,5,"The view is very beautiful, but unfortunately the road is still a bit steep"
+U0212,C0022,Bumi Perkemahan Ranca Cangkuang PPTK Gambung,5,Good
+U0213,C0022,Bumi Perkemahan Ranca Cangkuang PPTK Gambung,4,"The camping area is wide, there is a river with clear water"
+U0214,C0022,Bumi Perkemahan Ranca Cangkuang PPTK Gambung,4,Nice place
+U0215,C0022,Bumi Perkemahan Ranca Cangkuang PPTK Gambung,5,The view is really good in the morning
+U0216,C0022,Bumi Perkemahan Ranca Cangkuang PPTK Gambung,5,Just found out there is a campground that is still beautiful and natural
+U0217,C0022,Bumi Perkemahan Ranca Cangkuang PPTK Gambung,5,Nice place
+U0218,C0022,Bumi Perkemahan Ranca Cangkuang PPTK Gambung,3,"It's pretty cool, if it's cold at 5 in the morning up to 14 degrees"
+U0219,C0022,Bumi Perkemahan Ranca Cangkuang PPTK Gambung,4,Back to nature
+U0220,C0022,Bumi Perkemahan Ranca Cangkuang PPTK Gambung,4,"The camping site is good, close to the river and has a view of the tea plantations but the access is still rocky and steep"
+U0221,C0023,Punceling Pas Camping Ground & Hot Spring,3,"The view is good, great, but the road is still rocky"
+U0222,C0023,Punceling Pas Camping Ground & Hot Spring,4,"Comfortable place, suitable for camping with friends"
+U0223,C0023,Punceling Pas Camping Ground & Hot Spring,4,Favorite place
+U0224,C0023,Punceling Pas Camping Ground & Hot Spring,1,It's not friendly to want to have a quiet campsite that has stalls instead of karaoke
+U0225,C0023,Punceling Pas Camping Ground & Hot Spring,4,"The camp site is nice, the access from the main road to the entrance is rocky but still reasonable"
+U0226,C0023,Punceling Pas Camping Ground & Hot Spring,5,Family Camp
+U0227,C0023,Punceling Pas Camping Ground & Hot Spring,5,The best camping spot for me personally
+U0228,C0023,Punceling Pas Camping Ground & Hot Spring,4,This place can be used for camping with an atmosphere that is still beautiful and cool
+U0229,C0023,Punceling Pas Camping Ground & Hot Spring,5,Fresh and cool atmosphere
+U0230,C0023,Punceling Pas Camping Ground & Hot Spring,5,Facilities that lack toilets must be kept clean
+U0231,C0024,Bale Bambu Adventure Resort,1,Not good
+U0232,C0024,Bale Bambu Adventure Resort,5,Good Could be one of the recommendations for adventure tourism in Bandung
+U0233,C0024,Bale Bambu Adventure Resort,5,The place is comfortable Back to nature
+U0234,C0024,Bale Bambu Adventure Resort,5,"The place is really beautiful, very comfortable, perfect for a family holiday, access is quite easy"
+U0235,C0024,Bale Bambu Adventure Resort,5,"I really like camping here, the atmosphere is comfortable and cool"
+U0236,C0024,Bale Bambu Adventure Resort,5,I plan to visit this place soon Is it really worth a visit?
+U0237,C0024,Bale Bambu Adventure Resort,4,Great for tubing
+U0238,C0024,Bale Bambu Adventure Resort,3,Food presentation is not clean & neat
+U0239,C0024,Bale Bambu Adventure Resort,4,An exciting place for rafting
+U0240,C0024,Bale Bambu Adventure Resort,1,So bad
+U0241,C0025,Hejo Forest,4,Clogged toilet
+U0242,C0025,Hejo Forest,5,"The location is good, there are lots of trees so it's cool all day without the sun"
+U0243,C0025,Hejo Forest,4,Ok
+U0244,C0025,Hejo Forest,4,Poorly maintained and expensive not professional
+U0245,C0025,Hejo Forest,5,"Cold and serene The cold is serious, no joke"
+U0246,C0025,Hejo Forest,5,"Cool, quite clean and well maintained, lots of trees, comfortable camping"
+U0247,C0025,Hejo Forest,2,"If you want to test your courage, you can do it here"
+U0248,C0025,Hejo Forest,5,"One of the camping ground areas in the Ciwidey area Very cold, suitable for camping with family"
+U0249,C0025,Hejo Forest,4,The place is cool
+U0250,C0025,Hejo Forest,5,Recommend
+U0251,C0026,Cozyland Camping Ground,4,Orchid gate 10k
+U0252,C0026,Cozyland Camping Ground,5,Suitable for those who like natural nuances
+U0253,C0026,Cozyland Camping Ground,5,Recommended
+U0254,C0026,Cozyland Camping Ground,4,Good
+U0255,C0026,Cozyland Camping Ground,5,Camping in the middle of a pine forest
+U0256,C0026,Cozyland Camping Ground,3,OK for Glamping/Camping with family
+U0257,C0026,Cozyland Camping Ground,3,The electrical terminal is dead
+U0258,C0026,Cozyland Camping Ground,4,The place is comfortable and safe Suitable for camping for families and relatives
+U0259,C0026,Cozyland Camping Ground,5,Cool camping place with vine forests
+U0260,C0026,Cozyland Camping Ground,5,Good for chilling out on the weekend
+U0261,C0027,Orchid Forest Cikole,5,Just Like another Pinewood but more crowded on weekends hard to get lonely place to take some pictures
+U0262,C0027,Orchid Forest Cikole,5,"Good God willing, it will come"
+U0263,C0027,Orchid Forest Cikole,4,"The natural atmosphere is beautiful, especially after it rains"
+U0264,C0027,Orchid Forest Cikole,4,"Min, are there any job vacancies here?"
+U0265,C0027,Orchid Forest Cikole,5,"Good place for kids and have cute rabbits to play with and flying fox, of course beautiful flowers and IG worthy scenery"
+U0266,C0027,Orchid Forest Cikole,5,Actually the place is okay
+U0267,C0027,Orchid Forest Cikole,5,Very refreshing
+U0268,C0027,Orchid Forest Cikole,5,The place is Sabi but the tickets are pricey
+U0269,C0027,Orchid Forest Cikole,5,Suitable for those who want to feel nature
+U0270,C0027,Orchid Forest Cikole,5,Cool
+U0271,C0028,Jungle Milk Jayagiri,1,This is the wrong point
+U0272,C0028,Jungle Milk Jayagiri,4,Not good
+U0273,C0029,Cikole Camp Park,5,Exciting
+U0274,C0029,Cikole Camp Park,5,The camp site is clean and there is a playground area for children
+U0275,C0029,Cikole Camp Park,5,sangat rekomendid
+U0276,C0029,Cikole Camp Park,5,really good
+U0277,C0029,Cikole Camp Park,5,"A cool, nice place to visit with family or friends"
+U0278,C0029,Cikole Camp Park,3,Expensive
+U0279,C0029,Cikole Camp Park,5,It is suitable for family outbound events or office events
+U0280,C0029,Cikole Camp Park,1,Can I book a place? And where can I order online? I want the details first
+U0281,C0029,Cikole Camp Park,5,5 stars for the price
+U0282,C0029,Cikole Camp Park,3,It's not like it used to be
+U0283,C0030,Sunrise Point CUKUL,5,How much is the rental price per day?
+U0284,C0030,Sunrise Point CUKUL,5,Comfortable place
+U0285,C0030,Sunrise Point CUKUL,5,Great Amazing view in the highlands in the tea garden and calming clean heart in the tea garden
+U0286,C0030,Sunrise Point CUKUL,4,It's good
+U0287,C0030,Sunrise Point CUKUL,1,"The view is really nice, cool"
+U0288,C0030,Sunrise Point CUKUL,4,"The road is really bad, it feels like going back to the era of struggle"
+U0289,C0030,Sunrise Point CUKUL,4,Beautiful sunrise location if the weather permits
+U0290,C0030,Sunrise Point CUKUL,1,"Just park, there's a ticket"
+U0291,C0030,Sunrise Point CUKUL,1,"The place is indeed good for a sunrise spot, but please help the manager at the counter"
+U0292,C0030,Sunrise Point CUKUL,1,The parking lot is too narrow and is in the bestman
+U0293,C0031,Situ Cileunca,1,Lots of flies
+U0294,C0031,Situ Cileunca,5,Healing explores Situ Cileunca
+U0295,C0031,Situ Cileunca,1,"GENUINE, IF YOU DON'T WANT TO RAFTING, DO NOT COME HERE"
+U0296,C0031,Situ Cileunca,1,The tourist attractions are not clear
+U0297,C0031,Situ Cileunca,1,Bad! The nest of garbage extortionists!
+U0298,C0031,Situ Cileunca,1,"If you eat up to one million, I'm too lazy to go here for recreation"
+U0299,C0031,Situ Cileunca,2,"The air is fresh, comfortable, the food is delicious the guides are friendly"
+U0300,C0031,Situ Cileunca,2,There are no cleaning staff
+U0301,C0031,Situ Cileunca,2,The water is receding
+U0302,C0031,Situ Cileunca,2,Fun
+U0303,C0032,Hutan Pinus Rahong,4,A nice camping ground
+U0304,C0032,Hutan Pinus Rahong,5,If you feel stressed Just come and visit this place!
+U0305,C0032,Hutan Pinus Rahong,5,It's really the best
+U0306,C0032,Hutan Pinus Rahong,5,a place for family recreation and those who like camping
+U0307,C0032,Hutan Pinus Rahong,5,Fun place for recreation
+U0308,C0032,Hutan Pinus Rahong,5,Thank God there are still forests near the city
+U0309,C0032,Hutan Pinus Rahong,5,"The atmosphere is nice and cool here, suitable for camping"
+U0310,C0032,Hutan Pinus Rahong,1,Today's experience was very bad
+U0311,C0032,Hutan Pinus Rahong,1,"Just a camping ground, there are fees for entry tickets"
+U0312,C0032,Hutan Pinus Rahong,2,The place is dirty
+U0313,C0033,Cileunca Lakeside,5,"The air is cold, full of fog and suitable for healing with family or partners"
+U0314,C0033,Cileunca Lakeside,5,Recommended
+U0315,C0033,Cileunca Lakeside,5,A place for vacation or just refreshing
+U0316,C0033,Cileunca Lakeside,5,Obscene 2023 Canning Bandung
+U0317,C0033,Cileunca Lakeside,4,"The place is nice, cool, but unfortunately the service is lacking"
+U0318,C0033,Cileunca Lakeside,4,The location has a good view of Cileunca
+U0319,C0033,Cileunca Lakeside,5,The place is fun
+U0320,C0033,Cileunca Lakeside,4,The place is actually nice
+U0321,C0033,Cileunca Lakeside,4,The place is neatly arranged
+U0322,C0033,Cileunca Lakeside,4,I want to stay but with whom huh
+U0323,C0034,Artapela Hill,5,The Hidden Place in South of Bandung
+U0324,C0034,Artapela Hill,3,Mantcap
+U0325,C0034,Artapela Hill,4,Beautiful
+U0326,C0034,Artapela Hill,5,Nice place
+U0327,C0034,Artapela Hill,4,This is great
+U0328,C0034,Artapela Hill,5,It's good not to use doping
+U0329,C0034,Artapela Hill,4,"I've never been there, but looking at Google it looks beautiful and okay"
+U0330,C0034,Artapela Hill,5,"The place is comfortable and the journey is also quite good, around 2-3 hours"
+U0331,C0034,Artapela Hill,5,The track is awesome
+U0332,C0034,Artapela Hill,1,"Not an official route, administration is 2x under the above list"
+U0333,C0035,Datar Pinus Camp,5,Nice and great the landscape So freah and nature vibes
+U0334,C0035,Datar Pinus Camp,3,Expensive
+U0335,C0035,Datar Pinus Camp,4,One of the recommended camping ground places in Pangalengan
+U0336,C0035,Datar Pinus Camp,2,"Hmmm, actually it's really good, but you need to be careful, there are a lot of flies in the morning"
+U0337,C0035,Datar Pinus Camp,4,"Comfortable, if it doesn't rain"
+U0338,C0035,Datar Pinus Camp,5,Completed camping facilities at very affordable prices and friendly service
+U0339,C0035,Datar Pinus Camp,1,"Good place, easy to reach location, clean bathroom But my first camping experience was here Zonk"
+U0340,C0035,Datar Pinus Camp,5,Camping place among pine trees in the Pangalengan area
+U0341,C0035,Datar Pinus Camp,4,Fun place for fun with the family
+U0342,C0035,Datar Pinus Camp,4,"The place is nice, complete with toilets, electricity, and a sink too"
+U0343,C0036,Citere Camping Ground (Tms Production),5,Suitable for a mini camp with cool and beautiful views
+U0344,C0036,Citere Camping Ground (Tms Production),5,"Public facilities are very adequate, there are clean toilets and prayer rooms"
+U0345,C0036,Citere Camping Ground (Tms Production),5,Great place and good service
+U0346,C0036,Citere Camping Ground (Tms Production),3,A nice camping spot on the edge of the lake and easy to reach
+U0347,C0036,Citere Camping Ground (Tms Production),3,The view is very beautiful and beautiful
+U0348,C0036,Citere Camping Ground (Tms Production),4,Tourist spots for good camping if you want nature tourism
+U0349,C0036,Citere Camping Ground (Tms Production),3,Toilets are widely available and suitable for gatherings
+U0350,C0036,Citere Camping Ground (Tms Production),5,Nice view There is a flying fox across the lake Toilet and shower facilities are very good
+U0351,C0036,Citere Camping Ground (Tms Production),5,"The place is great, highly recommended for family gatherings and hangout events"
+U0352,C0036,Citere Camping Ground (Tms Production),4,"Sites for camping, easy access to water, and friendly service from the event organizer"
+U0353,C0037,Puncak Guha Bungbulang,5,"Good, what a beautiful place"
+U0354,C0037,Puncak Guha Bungbulang,5,South Garut's savanna wind pillar
+U0355,C0037,Puncak Guha Bungbulang,5,Excellent
+U0356,C0037,Puncak Guha Bungbulang,3,"The place is really nice, good for relaxing and camping"
+U0357,C0037,Puncak Guha Bungbulang,5,"Masyaallah, the view of the sea is so refreshing to the eyes, heart and mind"
+U0358,C0037,Puncak Guha Bungbulang,4,"In terms of location, the camping area is not very large"
+U0359,C0037,Puncak Guha Bungbulang,3,Reasonable
+U0360,C0037,Puncak Guha Bungbulang,5,Cheap and cheerful tour with beautiful views
+U0361,C0037,Puncak Guha Bungbulang,4,Affordable Tickets Easy to Reach Location
+U0362,C0037,Puncak Guha Bungbulang,5,The entrance ticket price is quite affordable The place is nice for camping
+U0363,C0038,Karacak Valley,5,Good It's also suitable for bringing the family
+U0364,C0038,Karacak Valley,4,Comfortable enough for camping
+U0365,C0038,Karacak Valley,5,"The cold is great, it can be even colder in the dry season, the atmosphere is still beautiful"
+U0366,C0038,Karacak Valley,5,"Nice place to wind down & camping, 30 mins access to main road"
+U0367,C0038,Karacak Valley,5,The view is really good
+U0368,C0038,Karacak Valley,5,Nice place
+U0369,C0038,Karacak Valley,5,Very beautiful view And the atmosphere is really beautiful
+U0370,C0038,Karacak Valley,4,Entry fee is 15k now there is a camping ground
+U0371,C0038,Karacak Valley,4,Nice experience with beautiful view
+U0372,C0038,Karacak Valley,4,The place is suitable for camping
+U0373,C0039,Papandayan Camping Ground,5,Greatpppppp
+U0374,C0039,Papandayan Camping Ground,5,Very fun family trip
+U0375,C0039,Papandayan Camping Ground,4,It's pretty good but the toilet and ablution place on the left at the camp ground don't work
+U0376,C0039,Papandayan Camping Ground,5,Good poll point
+U0377,C0039,Papandayan Camping Ground,1,"I booked on March 11 2023, judging from the pictures on social media, the place was very nice and comfortable, but when I arrived it turned out it was very quiet"
+U0378,C0039,Papandayan Camping Ground,1,The price is too expensive for such facilities
+U0379,C0039,Papandayan Camping Ground,5,Quite friendly service
+U0380,C0039,Papandayan Camping Ground,5,Lots of great photo spots
+U0381,C0039,Papandayan Camping Ground,5,Amazing scenic view
+U0382,C0039,Papandayan Camping Ground,4,The place is cool and beautiful
+U0383,C0040,Pondok Saladah,5,"Guess ""Is there car access to go upstairs?"
+U0384,C0040,Pondok Saladah,5,"The air is cool, the view is beautiful"
+U0385,C0040,Pondok Saladah,5,Nice
+U0386,C0040,Pondok Saladah,5,View at the Papandayan mountain camping site
+U0387,C0040,Pondok Saladah,5,"Spacious, clean, nice, there are stalls, toilets and prayer rooms"
+U0388,C0040,Pondok Saladah,5,Be careful there is the omen
+U0389,C0040,Pondok Saladah,5,"After more than 5 years of coming here again and it's getting better and cleaner, it's still cool hehe But, the pigs are really wild I couldn't sleep comfortably at all hehe"
+U0390,C0040,Pondok Saladah,1,Too expensive 100 per person not the same facilities
+U0391,C0040,Pondok Saladah,5,Edelweiss Camping area
+U0392,C0040,Pondok Saladah,4,Poorly Maintained But Recommended Laa
+U0393,C0041,Cilopang Adventure Camp,3,Good
+U0394,C0041,Cilopang Adventure Camp,5,"Cool, nice to hang out and drink coffee"
+U0395,C0041,Cilopang Adventure Camp,4,"The scenery is really beautiful, it's a shame there are several places that have started to break down, I hope we can all take care of it"
+U0396,C0041,Cilopang Adventure Camp,4,"The balloon is not bad, the wind is strong"
+U0397,C0041,Cilopang Adventure Camp,4,"The place is cool, cool, not too noisy to make a calm mood for the weekend at this place"
+U0398,C0041,Cilopang Adventure Camp,5,Go for a walk
+U0399,C0041,Cilopang Adventure Camp,4,Suitable for healing healing
+U0400,C0041,Cilopang Adventure Camp,5,Suitable for a morning walk while enjoying the view with children
+U0401,C0041,Cilopang Adventure Camp,5,Simply relaxing and refreshing
+U0402,C0041,Cilopang Adventure Camp,5,Cold ears shiny eyes
+U0403,C0042,Camping Ground Situ Cibeureum,5,Camping in cibereum is very fun We are very at one with nature
+U0404,C0042,Camping Ground Situ Cibeureum,4,"It's quiet, it's good for healing, but the road just takes a bit of effort hehe"
+U0405,C0042,Camping Ground Situ Cibeureum,5,Good for fresh morning exercise
+U0406,C0042,Camping Ground Situ Cibeureum,5,"The place is cool and clean, the roads are also good"
+U0407,C0042,Camping Ground Situ Cibeureum,4,Quiet
+U0408,C0042,Camping Ground Situ Cibeureum,5,The atmosphere is great and coincidentally friendly
+U0409,C0042,Camping Ground Situ Cibeureum,5,Cold and good for refreshing
+U0410,C0042,Camping Ground Situ Cibeureum,4,The location is quite good for camping
+U0411,C0042,Camping Ground Situ Cibeureum,5,Cool air and super beautiful green views
+U0412,C0042,Camping Ground Situ Cibeureum,4,Poorly maintained
+U0413,C0043,Hutan Mati Gunung Papandayan,5,Create cool pre-wedding photos
+U0414,C0043,Hutan Mati Gunung Papandayan,5,"Nice view, easy to climb not too heavy"
+U0415,C0043,Hutan Mati Gunung Papandayan,5,"Amazing view in and from here, love it"
+U0416,C0043,Hutan Mati Gunung Papandayan,5,Cool Satisfied with hiking here
+U0417,C0043,Hutan Mati Gunung Papandayan,5,"It's great for taking photos in the dead forest, especially if the person taking the photos is professional"
+U0418,C0043,Hutan Mati Gunung Papandayan,5,Extraordinary
+U0419,C0043,Hutan Mati Gunung Papandayan,5,"The aura was magical, surrounded by a clear sky and a cold wind"
+U0420,C0043,Hutan Mati Gunung Papandayan,5,"It's a shame when I got there the weather wasn't good, so there was a lot of fog"
+U0421,C0043,Hutan Mati Gunung Papandayan,5,"Good, like the Mao vs Boss area in the Dark Souls game Ha ha ha ha"
+U0422,C0043,Hutan Mati Gunung Papandayan,5,Feels like in a different world
+U0423,C0044,Dano Cilopang Garut,1,"The place is ugly, the coffee isn't good"
+U0424,C0044,Dano Cilopang Garut,4,The place is beautiful Unfortunately the entrance is narrow and not good
+U0425,C0044,Dano Cilopang Garut,5,Beautiful
+U0426,C0044,Dano Cilopang Garut,4,Cool
+U0427,C0044,Dano Cilopang Garut,5,The house is very beautiful
+U0428,C0044,Dano Cilopang Garut,5,Cake top
+U0429,C0044,Dano Cilopang Garut,4,Recomanded
+U0430,C0044,Dano Cilopang Garut,4,Really really nice for hanging out
+U0431,C0044,Dano Cilopang Garut,4,"A cafe with an open air feel, very suitable for unwinding"
+U0432,C0044,Dano Cilopang Garut,3,Free tour
+U0433,C0045,Buffalo Hill,5,The area includes a conservation area
+U0434,C0045,Buffalo Hill,4,"Buffalohill has lots of bonuses, see for yourself"
+U0435,C0045,Buffalo Hill,5,The place is aaaaaa good
+U0436,C0045,Buffalo Hill,5,Just information on where to store vehicles as well as permits
+U0437,C0045,Buffalo Hill,5,"I got lost at first, but finally arrived and got the sunrise Don't forget to take care of your trash, friends!"
+U0438,C0045,Buffalo Hill,5,Great place for chill and run from your life problems
+U0439,C0045,Buffalo Hill,2,Parking fees are too expensive
+U0440,C0045,Buffalo Hill,5,Don't regret it here Don't come back to fix it sometime
+U0441,C0045,Buffalo Hill,5,Don't regret it at all
+U0442,C0045,Buffalo Hill,4,Excellent
+U0443,C0046,Campgrounds Kiara Payung,4,"Buper that is comfortable, beautiful and cool"
+U0444,C0046,Campgrounds Kiara Payung,3,It's quite tiring to jog on the track because the camping areas are separated unless there are 2-wheeled vehicles
+U0445,C0046,Campgrounds Kiara Payung,5,"Comfortable atmosphere, varied menu, relatively cheap prices, delicious taste, highly recommended"
+U0446,C0046,Campgrounds Kiara Payung,5,It was great for two days there so I was fresh
+U0447,C0046,Campgrounds Kiara Payung,4,Lack of water in toilets
+U0448,C0046,Campgrounds Kiara Payung,3,"Spacious, can accommodate many people"
+U0449,C0046,Campgrounds Kiara Payung,3,A place to enjoy the outdoor atmosphere and nature
+U0450,C0046,Campgrounds Kiara Payung,5,Suitable place for camping
+U0451,C0046,Campgrounds Kiara Payung,5,Cold
+U0452,C0046,Campgrounds Kiara Payung,4,Spacious and suitable for camping
+U0453,C0047,Nangorak Camp,5,The best camping spot in Sumedang
+U0454,C0047,Nangorak Camp,1,"Last Saturday there, No activity at all"
+U0455,C0047,Nangorak Camp,2,"Grass grows everywhere, road access is difficult to reach for motorbikes or cars, the place is no longer maintained"
+U0456,C0047,Nangorak Camp,5,Perfect for camping
+U0457,C0047,Nangorak Camp,2,"The place is not well-maintained, the access road there is bad"
+U0458,C0047,Nangorak Camp,5,Amazing
+U0459,C0047,Nangorak Camp,5,"It's very exciting, the views are beautiful"
+U0460,C0047,Nangorak Camp,4,Nature teaches a lot of wisdom
+U0461,C0047,Nangorak Camp,1,Synonymous with disobedience
+U0462,C0047,Nangorak Camp,4,Suitable
+U0463,C0048,Baru Beureum (Camp & Track Mt. Manglayang),5,Good for camping
+U0464,C0048,Baru Beureum (Camp & Track Mt. Manglayang),5,"The camping ground is spacious, access to the location can be done by motorbike"
+U0465,C0048,Baru Beureum (Camp & Track Mt. Manglayang),4,"Access to the basecamp is still a rocky dirt road, the track is solid from start to finish, full climb"
+U0466,C0048,Baru Beureum (Camp & Track Mt. Manglayang),4,"The atmosphere is serene, 15k htm + parking Prices for snacks are also standard"
+U0467,C0048,Baru Beureum (Camp & Track Mt. Manglayang),4,The access road is quite challenging
+U0468,C0048,Baru Beureum (Camp & Track Mt. Manglayang),5,The place is good but unfortunately the access is still not smooth
+U0469,C0048,Baru Beureum (Camp & Track Mt. Manglayang),3,"The place is not bad, but the road access is badly damaged, please pay more attention to the toilet"
+U0470,C0048,Baru Beureum (Camp & Track Mt. Manglayang),4,"The camp ground is ok, but access to get there is extraordinarily challenging"
+U0471,C0048,Baru Beureum (Camp & Track Mt. Manglayang),5,The camp site is quite comfortable
+U0472,C0048,Baru Beureum (Camp & Track Mt. Manglayang),5,A good place for camp ground with family friends
+U0473,C0049,Camping Ground Samalengoh Camp,4,"The location is good, the air is cool, there are enough toilets"
+U0474,C0049,Camping Ground Samalengoh Camp,5,Hidden gem in sumedaang ajiib
