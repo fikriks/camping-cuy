@@ -31,8 +31,13 @@ module.exports = {
 
       req.session.token = token;
       return res.status(200).send({
-        id: user.id,
-        email: user.email,
+        error: false,
+        message: "success",
+        loginResult: {
+          userId: user.id,
+          name: user.name,
+          token: token
+        },
       });
     } catch (error) {
       return res.status(500).send({ message: error.message });
@@ -41,14 +46,18 @@ module.exports = {
 
   register: async (req, res) => {
     try {
-      const { email, password } = req.body;
+      const { name, email, password } = req.body;
       
       await User.create({
-       email: email,
-       password: bcrypt.hashSync(password),
+        name: name,
+        email: email,
+        password: bcrypt.hashSync(password),
      });
 
-      return res.send({ message: "User registered successfully!"});
+      return res.send({
+        error: false,
+        message: "User Created",
+      });
     } catch (error) {
       return res.status(500).send({ message: error.message });
     }
@@ -58,6 +67,7 @@ module.exports = {
     try {
       req.session = null;
       return res.status(200).send({
+        error: false,
         message: "You've been signed out!",
       });
     } catch (err) {
