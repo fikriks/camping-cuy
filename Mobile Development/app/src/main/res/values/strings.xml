@@ -76,4 +76,6 @@
     <string name="total">$50.00</string>
     <string name="btn_home">Menu Utama</string>
     <string name="photo_place">Photo Place</string>
+    <string name="passwordNotMatch">Passwords don\'t match</string>
+
 </resources>
