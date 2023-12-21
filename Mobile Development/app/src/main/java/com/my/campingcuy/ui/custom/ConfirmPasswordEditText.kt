@@ -1,33 +1,31 @@
 package com.my.campingcuy.ui.custom
 
 import android.content.Context
+import android.graphics.drawable.Drawable
+import android.os.Build
 import android.text.Editable
+import android.text.InputType
 import android.text.TextWatcher
 import android.text.method.PasswordTransformationMethod
 import android.util.AttributeSet
-import android.view.View
-import android.view.ViewGroup
+import androidx.annotation.RequiresApi
 import androidx.appcompat.widget.AppCompatEditText
-import androidx.core.content.ContextCompat
 import com.my.campingcuy.R
 
-class ConfirmPassword : AppCompatEditText, View.OnFocusChangeListener {
+class ConfirmPasswordEditText : AppCompatEditText {
 
-    var isPasswordValid = false
-
-    init {
-        init()
-    }
-
+    @RequiresApi(Build.VERSION_CODES.O)
     constructor(context: Context) : super(context) {
         init()
     }
 
-    constructor(context: Context, attrs: AttributeSet?) : super(context, attrs) {
+    @RequiresApi(Build.VERSION_CODES.O)
+    constructor(context: Context, attrs: AttributeSet) : super(context, attrs) {
         init()
     }
 
-    constructor(context: Context, attrs: AttributeSet?, defStyleAttr: Int) : super(
+    @RequiresApi(Build.VERSION_CODES.O)
+    constructor(context: Context, attrs: AttributeSet, defStyleAttr: Int) : super(
         context,
         attrs,
         defStyleAttr
@@ -35,48 +33,23 @@ class ConfirmPassword : AppCompatEditText, View.OnFocusChangeListener {
         init()
     }
 
+    @RequiresApi(Build.VERSION_CODES.O)
     private fun init() {
-        // Set background with border
-        background = ContextCompat.getDrawable(context, R.drawable.border)
-        transformationMethod = PasswordTransformationMethod.getInstance()
+        inputType = InputType.TYPE_TEXT_VARIATION_PASSWORD
+        compoundDrawablePadding = 24
 
-        // Set onFocusChangeListener to validate password
-        onFocusChangeListener = this
+        setHint(R.string.password)
+        setAutofillHints(AUTOFILL_HINT_PASSWORD)
+        transformationMethod = PasswordTransformationMethod()
 
-        // Set text change listener
         addTextChangedListener(object : TextWatcher {
-            override fun beforeTextChanged(s: CharSequence?, start: Int, count: Int, after: Int) {
-                // Do nothing
-            }
+            override fun beforeTextChanged(p0: CharSequence?, p1: Int, p2: Int, p3: Int) {}
+            override fun afterTextChanged(p0: Editable?) {}
 
             override fun onTextChanged(s: CharSequence?, start: Int, before: Int, count: Int) {
-                validatePassword()
-            }
-
-            override fun afterTextChanged(s: Editable?) {
-                // Do nothing
+                if (!s.isNullOrEmpty() && s.length < 8)
+                    error = context.getString(R.string.error_password_min_8_char)
             }
         })
     }
-
-    override fun onFocusChange(v: View?, hasFocus: Boolean) {
-        if (!hasFocus) {
-            validatePassword()
-        }
-    }
-
-    private fun validatePassword() {
-        val password = text.toString().trim()
-        val confirmPassword =
-            (parent as ViewGroup).findViewById<PasswordEditText>(R.id.edt_password).text.toString()
-                .trim()
-
-        isPasswordValid = password.length >= 8 && password == confirmPassword
-        error = if (!isPasswordValid) {
-            resources.getString(R.string.passwordNotMatch)
-        } else {
-            null
-        }
-    }
-
 }

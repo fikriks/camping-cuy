@@ -38,7 +38,7 @@
         android:background="@drawable/circle_background"
         android:clipToOutline="true"
         android:padding="2dp"
-        android:src="@tools:sample/avatars"
+        android:src="@drawable/users"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"

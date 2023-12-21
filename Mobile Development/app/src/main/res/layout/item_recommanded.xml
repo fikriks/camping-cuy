@@ -33,7 +33,7 @@
                 android:layout_height="64dp"
                 android:contentDescription="@string/app_name"
                 android:scaleType="centerCrop"
-                tools:src="@tools:sample/avatars" />
+                tools:src="@drawable/users" />
         </com.google.android.material.card.MaterialCardView>
 
         <TextView

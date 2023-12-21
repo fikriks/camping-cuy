@@ -14,17 +14,17 @@
         android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
         android:background="?attr/nav_color">
 
-        <RelativeLayout
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content">
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
 
-            <ImageView
-                android:id="@+id/imageView3"
-                android:layout_width="match_parent"
-                android:layout_height="429dp"
-                android:scaleType="centerCrop"
-                android:src="@drawable/img_5" />
-        </RelativeLayout>
+        <ImageView
+            android:id="@+id/imageView3"
+            android:layout_width="match_parent"
+            android:layout_height="429dp"
+            android:scaleType="centerCrop"
+            android:src="@drawable/bg_detail" />
+    </RelativeLayout>
     </com.google.android.material.appbar.AppBarLayout>
 
     <RelativeLayout
@@ -59,7 +59,7 @@
             android:textSize="8sp"
             android:textStyle="bold|normal"
             android:drawablePadding="8dp"
-            app:drawableStartCompat="@drawable/ic_location" />
+            app:drawableStartCompat="@drawable/ic_location_red" />
 
         <TextView
             android:id="@+id/rating"
@@ -172,7 +172,7 @@
             android:layout_marginTop="320dp"
             android:text="@string/map"
             android:textColor="@color/white"
-            android:background="@drawable/map_button"
+            android:background="@drawable/button"
             android:focusable="false"
             android:focusableInTouchMode="false"
             android:textOff=""
