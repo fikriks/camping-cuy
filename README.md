@@ -1,5 +1,5 @@
 # Camping-Cuy
-![img](Machine_Learning/logo.png)
+![](Machine_Learning/Logo.png)
 ## Our Team
  Team ID : PH2-PS273
  
