@@ -8,7 +8,7 @@ Camping Cuy is an innovative app for nature lovers designed to make it easy to f
  Team Member : 
 | Nama                   | Bangkit ID   | Learning Path      | GitHub/LinkedIn          |
 | ---------------------- | ------------ | ------------------- | ------------------------ |
-| Ihsan Fermantono       | M004BSY1739  | Machine Learning    | [GitHub](https://github.com/ihsanfermanto) / [LinkedIn](https://www.linkedin.com/in/ihsanfermantono)          |
+| Ihsan Fermantono       | M004BSY1739  | Machine Learning    | [GitHub](https://github.com/fermantonoihsan) / [LinkedIn](https://www.linkedin.com/in/ihsanfermantono)          |
 | Rima Tria Farida       | M001BSX0773  | Machine Learning    | [GitHub](https://github.com/rimatriaf) / [LinkedIn](https://www.linkedin.com/in/rimatriaf)               |
 | Sabrina Farrah Athadiva| M200BSX1604  | Machine Learning    | [GitHub](https://github.com/sabrinafarrah) / [LinkedIn](https://www.linkedin.com/in/sabrinafarraha)           |
 | Fikri Khairul Saleh    | C246BSY3130  | Cloud Computing     | [GitHub](https://github.com/fikriks) / [LinkedIn](https://www.linkedin.com/in/fikri-khairul-shaleh)           |
