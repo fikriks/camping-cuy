@@ -3,7 +3,7 @@
 
 Camping Cuy is an innovative app for nature lovers designed to make it easy to find camping spots at the foot of the mountains. The app provides up-to-date ticket price information and also recommends nearby campsites based on user preferences, such as price, facilities, sights, and activities and loads the surrounding area from the user.
 # Our Design app
-[![figma](https://img.shields.io/badge/Figma-Our%20Design-success)]([https://www.figma.com/file/XX8rOGgty7gRRNtktFIL9U/YourNey?node-id=0%3A1](https://www.figma.com/proto/aLVBN5ZYiQhvnvnqGDS69k/Camping-Cuy?page-id=0%3A1&type=design&node-id=1-55&viewport=300%2C323%2C0.5&t=v7dAYiuxGT8s8H1J-1&scaling=scale-down&starting-point-node-id=27%3A22&mode=design))
+[![figma](https://img.shields.io/badge/Figma-Our%20Design-success)]((https://www.figma.com/proto/aLVBN5ZYiQhvnvnqGDS69k/Camping-Cuy?page-id=0%3A1&type=design&node-id=1-55&viewport=300%2C323%2C0.5&t=v7dAYiuxGT8s8H1J-1&scaling=scale-down&starting-point-node-id=27%3A22&mode=design))
 ## Our Team
  Team ID : PH2-PS273
  
